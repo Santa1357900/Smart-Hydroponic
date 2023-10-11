@@ -47,3 +47,23 @@
 <h3>EC sensor เซ็นเซอร์วัดค่าการนeไฟฟ้าของน ้า</h3>
 <img src="https://cdn2.botland.com.pl/66532-large_default/gravity-analogowy-czujnik-zasolenia-wody-i-gleby-dfrobot-dfr0300-h.jpg" style="width="200px" height="200px"">
 <p>เซ็นเซอร์วัดค่าการนำไฟฟ้าของน้ำสารละลาย สำหรับใช้งานในระบบ smartfarm,ระบบเลี้ยงสัตว์น้ำ , ปลูกผักแบบไร้ดิน Hydroponic</p>
+
+<h3>การออกแบบระบบ Smart hydroponic</h3>
+<img src="/รูป/4.png" style="width:500px;">
+ 
+ <h3>การออกแบบระบบเปิดปิดไฟด้วย Smart hydroponic
+</h3>
+<img src="/รูป/5.png" style="width:500px;">
+ 
+ <h3>การออกแบบระบบควบคุม pH</h3>
+<img src="/รูป/6.png" style="width:500px;">
+ 
+ <h3>การออกแบบระบบแสดงผลอุณหภูมิและความชื้น
+</h3>
+<img src="/รูป/9.png" style="width:500px;">
+ 
+ <h3>การออกแบบระบบแสดงผลค่าความนำไฟฟ้าของสารละลาย (EC)</h3>
+<img src="/รูป/7.png" style="width:500px;">
+
+<h3>การออกแบบระบบแสดงผลอุณภูมิของน้ำ</h3>
+<img src="/รูป/8.png" style="width:500px;">
