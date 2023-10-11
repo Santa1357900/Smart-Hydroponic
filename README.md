@@ -27,4 +27,4 @@
 </p
 
 <h3>Arduino IDE</h3>
-<img src"https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" style="width:100px; height:100px;">
+<img src"https://s3.amazonaws.com/eventick-redactor/065c62c2-f169-4c54-a2d8-fee009e9ee1b/arduinoicon2.preview.png" style="width:100px; height:100px;">
